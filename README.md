@@ -454,7 +454,7 @@ function showEmployeeList(employees) {
   });
 }
 ```
-**[⬆ Về đầu trang](#mục-lục)**
+**[⬆ Về biến luôn](#biến)**
 
 ### Thiết lập những đối tượng mặc định với Object.assign
 
