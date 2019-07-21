@@ -145,7 +145,7 @@ locations.forEach((location) => {
   dispatch(location);
 });
 ```
-**[⬆ về đầu trang](#mục-lục)**
+**[⬆ về tới biến](#**Biến**)**
 
 ### Đừng thêm những ngữ cảnh không cần thiết
 Nếu tên của lớp hay đối tượng của bạn đã nói lên điều gì đó rồi, đừng lặp
