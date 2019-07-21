@@ -55,7 +55,7 @@ const yyyymmdstr = moment().format('YYYY/MM/DD');
 ```javascript
 const currentDate = moment().format('YYYY/MM/DD');
 ```
-**[⬆ về đầu trang](#mục-lục)**
+**[⬆ về đầu trang](#**Biến**)**
 
 ### Sử dụng cùng từ vựng cho cùng loại biến
 
